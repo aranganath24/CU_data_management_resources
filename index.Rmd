@@ -17,35 +17,7 @@ The NIH policy has three main requirements, which correspond to different stages
 
 The [Center for Research Data and Digital Scholarship](https://www.colorado.edu/crdds/), a collaboration between the University Libraries and Research Computing, offers services that can help you to fulfill all of these requirements. 
 
-This brief manual provides an overview of these services, along with references to helpful external resources. It begins with an overview of [data management planning][An Overview of Data Management Planning]. It then presents [services and resources that can help you to implement data management best practices once your project is underway][Implementation Services], and an an introduction to [repository services][Repository Services] at CRDDS that can help you to publish your project data at the conclusion of your grant. The [conclusion][Conclusion] provides references and suggestions for further reading. 
-
-[Section 2][An Overview of Data Management Planning]
-
-
-that data can be independently accessed and downloaded by other researchers. 
-
-
-https://tamu.libguides.com/research-data-management/repositories
-
-https://theplosblog.plos.org/2021/10/data-repository/
-
-https://libguides.library.drexel.edu/data
-
-https://www.icpsr.umich.edu/files/deposit/dataprep.pdf
-
-https://datascienceinpractice.github.io/tutorials/08-DataPrivacy%26Anonymization.html
-
-writing a data management plan
-publishing data in a repository
-
-
-A data management plan (DMP) is a short document that describes researchers' plans for collecting, organizing, storing, and eventually disseminating the data that underlies their published research products. These plans are increasingly required by funding agencies as a part of grant applications, but remain a relatively novel form of documentation with which researchers are sometimes unfamiliar. 
-
-[DMPTool](https://dmptool.org/) is a platform that provides structured assistance to researchers that would like to craft a data management plan. It allows researchers to view sample plans that have been completed in the past, and develop new data management plans using DMP templates that correspond to the requirements of the major funding agencies. It also allows for easy collaboration among project teams, including among project teams that are dispersed across multiple institutions.
-
-Many academic and research institutions use customized versions of DMPTool, including CU Boulder. Below, in [Section 2](https://cu-boulder-crdds.github.io/dmptool_guide/using-dmptool.html), we provide a brief guide to using DMPTool for CU researchers; [Section 3](https://cu-boulder-crdds.github.io/dmptool_guide/additional-resources.html) provides suggestions on further reading. 
-
-
+This brief primer provides an overview of these services, along with references to helpful external resources. It begins with an overview of [data management planning][An Overview of Data Management Planning]. It then presents [services and resources that can help you to implement data management best practices once your project is underway][Implementation Services], and an an introduction to [repository services][Repository Services] at CRDDS that can help you to publish your project data at the conclusion of your grant. The [conclusion][Conclusion] provides references and suggestions for further reading. 
 
 
 
