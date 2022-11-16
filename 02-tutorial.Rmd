@@ -157,7 +157,7 @@ CRDDS staff are available to consult on data management issues related to ongoin
 
 # An overview of data publishing
 
-The second main requirement associated with the new NIH DMSP (in addition to the data management plan requirement) is that you publish your project data in a publicly facing data repository. A data repository is effectively an archive that is designed to preserve research data beyond the life of a given project, so that other researchers can easily reuse and build on the work of their colleagues. More generally, data repositories have the goal of making research data [FAIR](https://www.nature.com/articles/sdata201618): **F**indable**, **A**ccessible, **I**nteroperable, and **R**eusable. 
+The second main requirement associated with the new NIH DMSP (in addition to the data management plan requirement) is that you publish your project data in a publicly facing data repository. A data repository is effectively an archive that is designed to preserve research data beyond the life of a given project, so that other researchers can easily reuse and build on the work of their colleagues. More generally, data repositories have the goal of making research data [FAIR](https://www.nature.com/articles/sdata201618): **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. 
 
 There are many different kinds of data repositories within the broader repository ecosystem:
 
