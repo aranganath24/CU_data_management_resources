@@ -13,7 +13,7 @@ The NIH policy has three main requirements, which correspond to different stages
 
 1. When first applying for an NIH grant, you must [submit a Data Management Plan](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing) (DMP). 
 2. If the grant application is successful, you must implement the data management protocol specified in the DMP, and follow [data management best practices](https://sharing.nih.gov/data-management-and-sharing-policy/data-management) as you pursue your research.
-3. At the conclusion of your research, you must deposit your research data in a data repository, where other researchers can independently access and download the data. 
+3. At the conclusion of your research, you must [deposit your research data in a data repository](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data), where other researchers can independently access and download the data. 
 
 The [Center for Research Data and Digital Scholarship](https://www.colorado.edu/crdds/), a collaboration between the University Libraries and Research Computing, offers services that can help you to fulfill all of these requirements. 
 

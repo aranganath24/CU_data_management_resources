@@ -147,7 +147,7 @@ There are a variety of tools available that can help you to implement data manag
 
 * **The Unix Shell/Command Line**: When creating, naming, deleting, or moving around files and directories, it is easier to keep track of everything if you do so programmatically (rather than pointing and clicking in a graphical user interface). The Unix Shell is a basic scripting tool that allows you to automate these aspects of file management relatively easily: this makes file management quicker, less error-prone, and easier to document. For an excellent tutorial on using the Unix shell for file management, see this lesson from the [Carpentries](https://carpentries.org) program: [https://swcarpentry.github.io/shell-novice/](https://swcarpentry.github.io/shell-novice/).
 * **Git and GitHub**: Version control is an important part of data management that refers to your approach to tracking changes made to files containing data and code over time. Git is a version control system widely used in the open-source software and academic research communities. Github is a platform for hosting projects and source code that is based on Git; it’s a great way to implement versioning in a collaborative project. GitHub is a particularly useful way to store and keep track of changes in the code and scripts you use to process your data. These scripts can also be submitted alongside your datasets for long-term preservation in data repositories. To get started with Git and GitHub, this lesson is a good place to start: [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/).
-* The [Open Science Framework (OSF)](https://osf.io) is designed to be a one-stop shop for all of your data and project management needs.It integrates various data storage, analysis, versioning, and management applications into one unified platform. 
+* **Open Science Framework**: The [Open Science Framework (OSF)](https://osf.io) is designed to be a one-stop shop for all of your data and project management needs.It integrates various data storage, analysis, versioning, and management applications into one unified platform. 
 
 # CRDDS Services
 
@@ -180,7 +180,7 @@ If you are thinking of depositing your data in CU Scholar, please review the [Da
 
 ## Submitting data to CU Scholar
 
-If you decide that you would like to meet NIH data sharing requirements using CU Scholar, please consult the [submission guidelines](https://scholar.colorado.edu), and the 
+If you decide that you would like to meet NIH data sharing requirements using CU Scholar, please consult the [submission guidelines](https://scholar.colorado.edu/about), and the 
 
 The basic steps of the CU Scholar data submission workflow are as follows:
 
@@ -217,11 +217,58 @@ The goal of this primer was to provide a concise overview of practical resources
 
 # References
 
-The following resources and references were mentioned earlier; they are reprinted below for convenience.
+The following resources and references were mentioned earlier; they are reprinted below. 
+
+**Basic Policy Guidelines**
+
+* [NIH's new Data Management and Sharing Policy (DMSP) Overview](https://sharing.nih.gov/data-management-and-sharing-policy)
+  * [NIH Data Management Planning](https://sharing.nih.gov/data-management-and-sharing-policy)
+  * [NIH Data Management Best Practices](https://sharing.nih.gov/data-management-and-sharing-policy/data-management)
+  * [NIH Data Sharing and Archiving Expectations](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data)
+
+**Data Management Planning**
+
+* [DMPTool](https://dmptool.org)
+* [Sample DMPs](https://example-dms-plans.github.io/examples/)
+* [Annotated NIH DMP](https://osf.io/euaty)
+
+**Data Storage**
+
+* [OIT Guide to data storage at CU Boulder](https://oit.colorado.edu/services/file-transfer-storage-infrastructure)
+  * [CU Boulder PetaLibrary](https://www.colorado.edu/rc/resources/petalibrary)
+  * [Large File Transfer](https://oit.colorado.edu/services/file-transfer-storage-infrastructure/large-file-transfer)
+* [Back-ups and the 3-2-1 Rule](https://libguides.princeton.edu/c.php?g=102546&p=665865)
+
+**Data Management Best Practices**
+
+* Documentation and Metadata
+  * [Basic metadata guidance](https://libraries.mit.edu/data-management/store/documentation/)
+  * [Standards based metadata](https://data.research.cornell.edu/content/writing-metadata)
+  * [Readme-style metadata](https://data.research.cornell.edu/content/readme)
+  * [CU Scholar Readme Template](https://drive.google.com/file/d/1h_iBgq3HY0yXyJXDwWpi80GMC2Z4fO9U/view)
+* [File Management Best Practices](https://researchdata.wisc.edu/file-naming-and-versioning/)
+
+**Data Management Tools**
+
+* [Command line tutorial](https://swcarpentry.github.io/shell-novice/)
+* [Git and GitHub tutorial](https://swcarpentry.github.io/git-novice/)
+* [Open Science Framework](https://osf.io)
+
+
+**Data Repositories and Publishing**
+
+* [FAIR Data Principles](https://www.nature.com/articles/sdata201618)
+* [Catalog of repositories provided by NIH](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
+* [CU Scholar](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
+  * [CU Scholar submission guidelines](https://scholar.colorado.edu/about)
+  * [CU Scholar data set policy](https://scholar.colorado.edu/terms) (scroll to bottom)
+  * [Sample CU Scholar Dataset 1](https://doi.org/10.25810/mzt8-w960)
+  * [Sample CU Scholar Dataset 2](https://doi.org/10.25810/y1f2-j085)
+* Data Publishing and Privacy for Human Subjects
+  * [UK Anonymization Network](https://ukanon.net/framework/)
+  * [ICPSR Restricted Use Data Policy](https://www.icpsr.umich.edu/web/pages/ICPSR/access/restricted/)
 
 # Additional resources and further reading
-
-The Digital Curation Center (DCC) in the UK offers a useful [checklist](https://www.dcc.ac.uk/sites/default/files/documents/resource/DMP_Checklist_2013.pdf) that can be useful to consider as you draft your DMP. In addition, the Inter-university Consortium for Social and Political Research (ICPSR), has assembled a useful page that links to a variety of resources that pertain to the topic of data management plans. It is available [here](https://www.icpsr.umich.edu/web/pages/datamanagement/dmp/resources.html#a03). While ICPSR is dedicated to social science research, many of the resources it links to on that page are of more general interest. 
 
 
 
